@@ -1,0 +1,28 @@
+{
+  "name": "assignment-8-patelhinal21",
+  "version": "1.0.0",
+  "description": "TODO-app",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-fall-2022/assignment-8-patelhinal21.git"
+  },
+  "author": "Hinal Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-fall-2022/assignment-8-patelhinal21/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-fall-2022/assignment-8-patelhinal21#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "debug": "^4.3.4",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0",
+    "morgan": "^1.10.0"
+  }
+}

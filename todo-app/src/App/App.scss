@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.todo-wrapper {
+  margin: 20px auto 20px auto;
+  width: 1200px;
+  min-height: 700px;
+  padding: 20px;
+}
+//app name
+h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  align-self: center;
+  color: black;
+  margin-top: revert;
+}
+//list of todo
+.todo {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: x-large;
+}
